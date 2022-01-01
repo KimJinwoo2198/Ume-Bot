@@ -1,0 +1,10 @@
+py-cord==1.7.3
+BeautifulSoup4
+lavalink
+psutil
+requests
+lxml
+PyNaCl
+EZPaginator
+chardet
+aiohttp
